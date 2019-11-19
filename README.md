@@ -28,6 +28,7 @@ In the operating mode there are the following conditions:
 comment
 electrical cirquit, a list of elements, photos of the assembled Timer will be upload additionally
 
-rev.1.1. - Timer for models like F2A Speed (you can set operation time from 10 to 60 seconds) 
+rev.1.1. - Timer for models like F2A Speed (you can set operation time from 10 to 60 seconds)
+
 rev.1.2. - Timer for common use (you can set operation time from 10 seconds to 10 minutes and 50 seconds)
 
