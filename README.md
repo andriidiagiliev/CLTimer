@@ -32,5 +32,5 @@ rev.1.1. - Timer for models like F2A Speed (you can set operation time from 10 t
 
 rev.1.2. - Timer for common use (you can set operation time from 10 seconds to 10 minutes and 50 seconds) - do not use!
 
-rev.1.3. - reliase version. Operation time from 10 seconds up to 9 min 50 sec 
+rev.1.3. - reliase version. Operation time from 10 seconds up to 9 min 50 sec + user manual (rus)
 
